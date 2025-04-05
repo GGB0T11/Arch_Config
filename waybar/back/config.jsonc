@@ -21,7 +21,6 @@
     ],
     "custom/distro": {
         "format": " ",
-        "on-click": "~/.config/waybar/powermenu.sh",
         "tooltip": false
     },
     "hyprland/workspaces": {

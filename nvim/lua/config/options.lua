@@ -23,3 +23,5 @@ vim.opt.updatetime = 300
 vim.opt.swapfile = false
 vim.opt.backup = false
 
+-- True colors
+vim.o.termguicolors = true
